@@ -2,6 +2,11 @@
 
 In this project I did a simple exercise using DOM manipulation.
 
+## Project Screenshots
+
+![Project Screenshot](images/screenshot1.PNG)
+![Project Screenshot](images/screenshot2.PNG)
+
 ## Languages Used
 
 - HTML
